@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Providers/UserAndItemCountServiceProvider.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/artisan</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/Auth/EmailVerificationPromptController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/footer.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/Auth/NewPasswordController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/database/migrations/2022_08_01_193632_create_photos_table.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/main-layout.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/form/auth/phone_number.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/package.json</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/about.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/form/input_error.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/item_for_sale/card_table.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/Auth/RegisteredUserController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/form/auth/name.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/form/auth/email.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/ItemForSaleController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/form/input_item.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/composer.json</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/sidebar/index.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/vite.config.js</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/config/app.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/Auth/ConfirmablePasswordController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/.env</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/tailwind.config.js</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/postcss.config.js</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/Auth/EmailVerificationNotificationController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Requests/UpdateItemForSaleRequest.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/components/link_button.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/item_for_sale/show.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Requests/StoreItemForSaleRequest.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Requests/Auth/LoginRequest.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/item_for_sale/index.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Http/Controllers/Auth/AuthenticatedSessionController.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/resources/views/auth/register.blade.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/app/Models/User.php</file>
+            <file>file:/home/damjan/Projects/damjans-backyard-sales/server.php</file>
+        </group>
+    </open-files>
+</project-private>

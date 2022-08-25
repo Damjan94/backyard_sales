@@ -1,0 +1,1 @@
+<h3 {{$attributes->merge(['class' => "p-1 text-md text-red-500 whitespace-nowrap font-bold md:1/6"])}}>{{$slot}} €</h3>

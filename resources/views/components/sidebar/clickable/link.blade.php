@@ -1,0 +1,1 @@
+<a class="my-2 text-sm " href="{{ $link }}">{{ $text }}</a>
