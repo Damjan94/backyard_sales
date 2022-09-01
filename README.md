@@ -3,7 +3,7 @@
 
 ## Demonstration video
 
-https://github.com/Damjan94/backyard_sales/blob/video/backyard_sales.mp4?raw=true
+https://github.com/Damjan94/backyard_sales/blob/video/backyard_sales.mp4
 
 ## About
 
